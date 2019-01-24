@@ -1,7 +1,5 @@
 <!DOCTYPE! html>
-
-<style>
-* {
+<style type="text/css">* {
 	font-family:Verdana, Geneva, sans-serif;
 	padding: 0;
 	margin: 0;
@@ -23,14 +21,14 @@ nav {
 section {
 	background-color: lightgrey;
 	height: 400px;
-	
-	border: 1px solid red;
+  
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
 }
 
 h1 {
 	font-size: 1.50em;
-	margin-top: 1.75%;
-	margin-left: 2%;
   color: rgb(45, 45, 45);
 }
 
@@ -57,6 +55,9 @@ footer {
 
 .heading {
   /*background-image: linear-gradient(to right, rgba(135, 168, 183, 1), rgba(229, 255, 254, 0));*/
+  
+	margin-top: 1.75%;
+	margin-left: 2%;
 }
 
 #about {
@@ -105,9 +106,7 @@ footer {
 
 #bio {
   margin: 3%;
-}
-</style>
-
+}</style>
 <html>
 <head>
 	<title>Wesley Tang's Portfolio</title>
@@ -117,8 +116,10 @@ footer {
 		
 	</header>
 	<nav>
-			<div class="nav-item">Code</div>
-			<div class="nav-item">Designs</div>
+		<ul>
+			<ls class="nav-item">Code</ls>
+			<ls class="nav-item">Designs</ls>
+		</ul>
 	</nav>
 	<section id="about">
 		<div class="heading">
@@ -152,7 +153,7 @@ footer {
 		</div>
 	</section>
 	<footer>
-		Copyright © Wesley Tang 2019
+		Copyright Wesley Tang 2019
 	</footer>
 </body>
 </html>
