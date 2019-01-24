@@ -1,7 +1,6 @@
 <!DOCTYPE! html>
 
-<style type="text/css">
-	* {
+<style type="text/css">* {
 	font-family:Verdana, Geneva, sans-serif;
 	padding: 0;
 	margin: 0;
@@ -34,10 +33,18 @@ h1 {
   
 }
 
+/*
 div img {
-	align: center;
-  
-	max-width: 90%;
+  display: block;
+  margin: auto;
+  max-height: 95%;
+	max-width: 95%;
+  vertical-align: middle;
+}*/
+
+div img {
+  max-height: 100%;
+	max-width: 100%;
 }
 
 footer {
@@ -45,7 +52,7 @@ footer {
 	height: 25px;
 }
 
-@heading {
+.heading {
   
 }
 
@@ -60,30 +67,33 @@ footer {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
+  width: 100%;
+  height: 80%;
   
-  
-	border: 1px solid green;
 }
 
 #pfp {
-	max-width: 20%;
-  max-height: 100%;
+	width: 20%;
+  mheight: 100%;
 	margin: 2%;
-	background-color: rgba(206, 206, 206, 0.7);
+	/*background-color: rgba(206, 206, 206, 0.7);*/
   order: 1;
+  
 }
 
-#box-text {
+#bio-box {
   margin: 2%;
 	margin-left: 5%;
   color: black;
   order: 2;
 	background-color: rgba(206, 206, 206, 0.85);
+  width: 30%;
   
-  
-	border: 1px solid blue;
 }
-</style>
+
+#bio {
+  margin: 3%;
+}</style>
 
 <html>
 <head>
@@ -107,18 +117,28 @@ footer {
 			<div id="pfp">
 				<img src="https://avatars0.githubusercontent.com/u/10216643?s=460&v=4" alt="Wesley Tang Portrait">
 			</div>
-			<div id="box-text">
-				<p>
-					This is text about me!
+			<div id="bio-box">
+				<p id="bio">
+					I am a 3rd year computer science student at the University of Calgary with a concentration in Human Computer Interactions. Creating is my thing, whether it be with the strokes of a keyboard or the lens of a camera, I love to make! Some of my hobbies include coding, gaming, drawing, engaging in spirited discourse regarding the human condition and volunteering at the local animal shelter. My favourite things include dogs, watermelon, my friends and unecessarily and frequently ostentationsly verbose and eloquent prose.
 				</p>
 			</div>
 		</div>
 	</section>
 	<section id="code">
-		code here
+		<div class="heading">
+			<h1>Code</h1>
+		</div>
+		<div class="contents">
+			a bunch of indivudal projects go here
+		</div>
 	</section>
 	<section id="designs">
-		designs here :)c
+		<div class="heading">
+			<h1>Designs</h1>
+		</div>
+		<div class="contents">
+			a bunch of design projects go here
+		</div>
 	</section>
 	<footer>
 		Copyright Wesley Tang 2019
