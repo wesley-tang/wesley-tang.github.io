@@ -32,11 +32,11 @@ header {
 }
 
 #home-header {
-	background-image: url('images/scenic.jpg');
+	background-image: url('https://github.com/wesley-tang/wesley-tang.github.io/blob/master/images/scenic.JPG?raw=true');
 }
 
 #about-header {
-	background-image: url('images/sky3.jpg');
+	background-image: url('https://github.com/wesley-tang/wesley-tang.github.io/blob/master/images/sky3.JPG?raw=true');
 }
 
 #code-header {
