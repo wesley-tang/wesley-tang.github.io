@@ -1,8 +1,9 @@
 <!DOCTYPE! html>
-<style type="text/css">* {
+<style>* {
 	font-family:Verdana, Geneva, sans-serif;
 	padding: 0;
 	margin: 0;
+	text-decoration: none;
 }
 
 nav {
@@ -61,9 +62,13 @@ footer {
 }
 
 #about {
-	background-image: url("https://cdn.discordapp.com/attachments/392447381666267139/537808682575069194/pretty2.JPG");
+	background: url("https://cdn.discordapp.com/attachments/392447381666267139/537808682575069194/pretty2.JPG");
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#about-gradient{
+	background-image: linear-gradient(rgba(0,0,0,0), rgba(0, 0, 0,1));
 }
 
 #code {
@@ -86,7 +91,7 @@ footer {
 
 #pfp {
 	width: 20%;
-  mheight: 100%;
+  max-height: 90%;
 	margin: 2%;
 	/*background-color: rgba(206, 206, 206, 0.7);*/
   order: 1;
@@ -96,6 +101,7 @@ footer {
 #bio-box {
   margin: 2%;
 	margin-left: 5%;
+  max-height: 90%;
   color: black;
   order: 2;
 	background-color: rgba(255, 255, 255, 0.7);
@@ -106,33 +112,61 @@ footer {
 
 #bio {
   margin: 3%;
+}
+
+#projects {
+	flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+	padding-top: 4%;
+}
+
+.code-project {
+	background-color: rgb(220, 220, 220); 
+	height: 120px;
+	width: 120px;
+	padding: 5%;
+	border-radius: 15px;
+	color: rgb(20, 20, 20);
+	text-align: center;
+	vertical-align: center;
+	font-size: 1.2em;
+	
+	transition: background .2s, transform .2s ease-in;
+}
+
+.code-project:hover{
+	background: rgb(150, 150, 150);
+	transform: scale(.95,.95);
 }</style>
 <html>
 <head>
 	<title>Wesley Tang's Portfolio</title>
+	<meta name="Description" content="Wesley Tang's portfoilio site.">
 </head>
 <body>
 	<header>
 		
 	</header>
 	<nav>
-		<ul>
-			<ls class="nav-item">Code</ls>
-			<ls class="nav-item">Designs</ls>
-		</ul>
+		<duv class="nav-item"><a href="index">Home</a></div>
+		<duv class="nav-item"><a href="code">Code</a></div>
+		<div class="nav-item"><a href="designs">Designs</a></div>
 	</nav>
 	<section id="about">
-		<div class="heading">
-			<h1>About Me</h1>
-		</div>
-		<div class="contents">
-			<div id="pfp">
-				<img src="https://avatars0.githubusercontent.com/u/10216643?s=460&v=4" alt="Wesley Tang Portrait">
+		<div id="about-gradient">
+			<div class="heading">
+				<h1>About Me</h1>
 			</div>
-			<div id="bio-box">
-				<p id="bio">
-					I am a 3rd year computer science student at the University of Calgary with a concentration in Human Computer Interactions. Creating is my thing, whether it be with the strokes of a keyboard or the lens of a camera, I love to make! Some of my hobbies include coding, gaming, drawing, engaging in spirited discourse regarding the human condition and volunteering at the local animal shelter. My favourite things include dogs, watermelon, my friends and unecessarily and frequently ostentationsly verbose and eloquent prose.
-				</p>
+			<div class="contents">
+				<div id="pfp">
+					<img src="https://avatars0.githubusercontent.com/u/10216643?s=460&v=4" alt="Wesley Tang Portrait">
+				</div>
+				<div id="bio-box">
+					<p id="bio">
+						I am a 3rd year computer science student at the University of Calgary with a concentration in Human Computer Interactions. Creating is my thing, whether it be with the strokes of a keyboard or the lens of a camera, I love to make! Some of my hobbies include coding, gaming, drawing, engaging in spirited discourse regarding the human condition and volunteering at the local animal shelter. My favourite things include dogs, watermelon, my friends and unecessarily and frequently ostentationsly verbose and eloquent prose.
+					</p>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -140,8 +174,11 @@ footer {
 		<div class="heading">
 			<h1>Code</h1>
 		</div>
-		<div class="contents">
-			a bunch of indivudal projects go here
+		<div class="contents" id="projects">
+			<a href="https://github.com/wesley-tang/FR_SecretSanta"><div class="code-project">FR SS Automation</div></a>
+			<a href="https://github.com/wesley-tang/TextEngine2"><div class="code-project">Text Adventure Engine</div></a>
+			<a href="https://github.com/wesley-tang/Overlap"><div class="code-project">Overlap</div></a>
+			<a href="code/cpsc581"><div class="code-project">HCI</div></a>
 		</div>
 	</section>
 	<section id="designs">
@@ -149,11 +186,13 @@ footer {
 			<h1>Designs</h1>
 		</div>
 		<div class="contents">
-			a bunch of design projects go here
+			<a href="designs/photography"><div class="design-item">Photos</div></a>
+			<a href="designs/art"><div class="design-item">Art</div></a>
+		</div>
 		</div>
 	</section>
 	<footer>
-		Copyright Wesley Tang 2019
+		Copyright © Wesley Tang 2019
 	</footer>
 </body>
 </html>
