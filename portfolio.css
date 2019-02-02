@@ -16,19 +16,21 @@ nav {
 	height: 50px;
 	font-size: 1.25em;
 	text-align: center;
-	background-color: rgb();
-	color: lightgrey;
-  
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-evenly;
+
+	background-color: rgb(67, 104, 104);
+	color: rgb(67, 104, 104);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
 }
 
 header {
 	height: 600px;
 	background-repeat: no-repeat;
-  	background-size: cover;
+	background-size: cover;
+	text-align: right;
 }
 
 #home-header {
@@ -56,9 +58,9 @@ h2 {
 	/*background: -webkit-linear-gradient(rgb(20, 102, 160), rgb(37, 140, 128));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;	
-	/*Above from: https://css-tricks.com/snippets/css/gradient-text/*/
-	
-	letter-spacing: 0.4em;
+  /*Above from: https://css-tricks.com/snippets/css/gradient-text/*/
+
+  letter-spacing: 0.4em;
 }
 
 #home-heading {
@@ -75,47 +77,39 @@ h2 {
 	padding-top: 25%;
 }
 #designs-heading {
-	margin-left: 46%;
-	padding-top: 25%;
+	color: rgb(200, 250, 250);
+	margin-left: 6%;
 }
 
 
 section {
-	height: 400px;
+	min-height: 200px;
+	max-height: 400px;
 	
 	margin-left: 20%;
 	margin-right: 20%;
 	margin-bottom: 5%;
-  
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+
+	border-bottom: 3px solid rgb(160, 200, 200);
+
+
 }
 
 h1 {
 	font-weight: lighter;
 	font-size: 1.50em;
-  color: rgb(37, 140, 128);
+	color: rgb(37, 140, 128);
 }
 
-/*
-div img {
-  display: block;
-  margin: auto;
-  max-height: 95%;
-	max-width: 95%;
-  vertical-align: middle;
-}*/
-
-div img {
-  max-height: 100%;
-	max-width: 100%;
-}
 
 footer {
 	background-color: darkgrey;
 	height: 50px;
-  font-size: 0.75em;
+	font-size: 0.75em;
 }
 
 img {
@@ -123,9 +117,24 @@ img {
 	max-height: 100%;
 }
 
+p {
+	letter-spacing: 0.02em;
+}
+
+table, th, td {
+	border: none;
+	border-collapse: collapse;
+
+}
+
+th {
+	height: 30px;
+	background-color: rgb(118, 212, 226);
+}
+
 .heading {
-  /*background-image: linear-gradient(to right, rgba(135, 168, 183, 1), rgba(229, 255, 254, 0));*/
-  
+	/*background-image: linear-gradient(to right, rgba(135, 168, 183, 1), rgba(229, 255, 254, 0));*/
+
 	margin-top: 1.75%;
 	margin-bottom: 1%;
 	margin-left: 2%;
@@ -140,14 +149,14 @@ img {
 }
 
 .contents {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  width: 100%;
-  height: 80%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	width: 100%;
+	height: 80%;
 	margin-top: 2%;
-  
+
 }
 
 #bio-content {
@@ -155,34 +164,34 @@ img {
 }
 
 .nav-item {
-  
+	color: rgb(67, 104, 104);
+	margin-top: 10px;
 }
 
 #pfp {
-  max-height: 90%;
+	max-height: 90%;
 	margin-left: 2%;
 	margin-top: 2%;
 	height: 90%
-	/*background-color: rgba(206, 206, 206, 0.7);*/
-  
+
 }
 
 #bio-box {
-  order: 2;
-  width: 40%;
+	order: 2;
+	width: 40%;
 	height: 90%;
-  margin-left: 6%;
-  
+	margin-left: 6%;
+
 }
 
 #bio {
-  margin: 3%;
+	margin: 3%;
 }
 
-#projects {
+.projects {
 	flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-evenly;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
 	margin-top: 4%;
 }
 
@@ -201,6 +210,43 @@ img {
 .code-project:hover{
 	background: rgb(160, 210, 210);
 	transform: scale(.95,.95);
+}
+
+#photos-button {
+	background-image: url('images/bird.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: rgb(250, 250, 250);
+}
+#art-button {
+	background-image: url('images/drawing.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: rgb(250, 250, 250);
+}
+
+
+.design-item{
+	height: 250px;
+	width: 250px;
+
+
+
+	font-size: 1.2em;
+	text-align: center;
+}
+
+/*https://stackoverflow.com/questions/43938860/how-to-tint-image-with-css*/
+
+.design-item:hover:before{
+	background: none;
+}
+
+.icon {
+	height: 50px;
+	width: 50px;
 }
 
 /*https://www.w3schools.com/howto/howto_css_overlay.asp*/
