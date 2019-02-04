@@ -62,7 +62,7 @@ h2 {
   -webkit-text-fill-color: transparent;	
   /*Above from: https://css-tricks.com/snippets/css/gradient-text/*/
 
-  letter-spacing: 0.4em;
+  	letter-spacing: 0.4em;
 }
 
 #home-heading {
@@ -85,7 +85,7 @@ h2 {
 
 
 section {
-	min-height: 200px;
+	min-height: 100px;
 	max-height: 400px;
 	
 	margin-left: 20%;
@@ -98,14 +98,14 @@ section {
 	flex-wrap: nowrap;
 
 	border-bottom: 3px solid rgb(160, 200, 200);
-
-
 }
 
 h1 {
 	font-weight: lighter;
 	font-size: 1.50em;
 	color: rgb(37, 140, 128);
+
+  	margin-bottom: 2%;
 }
 
 
@@ -133,6 +133,10 @@ table, th, td {
 th {
 	height: 30px;
 	background-color: rgb(118, 212, 226);
+}
+
+iframe {
+	border: none;
 }
 
 .heading {
