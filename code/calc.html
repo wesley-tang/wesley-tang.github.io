@@ -1,0 +1,133 @@
+<!DOCTYPE! html>
+<html>
+<head>
+	<title>Calculator SENG513</title>
+	<link rel="stylesheet" type="text/css" href="calculator.css">
+	<meta name="description" content="Assignment 2 for SENG 513. A calculator.">
+</head>
+<body>
+	<div id="calculator">
+		<div class ="columns">
+			<div id="readout">
+				
+			</div>
+			<div id="display">
+				
+			</div>
+			<div class="row">
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="(">
+						(
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value=")">
+						)
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="Ans">
+						Ans
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="CE">
+						CE
+					</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="7">
+						7
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="8">
+						8
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="9">
+						9
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="/">
+						÷
+					</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="4">
+						4
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="5">
+						5
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="6">
+						6
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="*">
+						×
+					</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="1">
+						1
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="2">
+						2
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="3">
+						3
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="-">
+						-
+					</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="0">
+						0
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value=".">
+						.
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="=">
+						=
+					</button>
+				</div>
+				<div class="button">
+					<button onclick="calcButton(this.value)" value="+">
+						+
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+</script>
+<script src="calculator.js"></script>
+</html>
