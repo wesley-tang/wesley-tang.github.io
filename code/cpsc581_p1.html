@@ -1,9 +1,9 @@
 <!DOCTYPE! html>
 <html>
 <head>
-	<title>Wesley's Portfolio - Syndey Button</title>
+	<title>Wesley's Portfolio - Novel Phone Unlock</title>
 	<link rel="stylesheet" type="text/css" href="../portfolio.css">
-	<meta name="description" content="My portfolio on CPSC 581 Project 0: The Sydney Button.">
+	<meta name="description" content="My portfolio on CPSC 581 Project 1: Novel phone unlock.">
 </head>
 <body>
 	<header id="code-header">
@@ -16,52 +16,71 @@
 		<a href="../designs"><div class="nav-item">Designs</div></a>
 	</nav>
 	<section>
-		<h1>Project 0</h1>
-			<p>The objective of this project was to produce a button that captured a characteristic or persaonlity trait of our client. In this case, we decided to create our button based on our CPSC581 professor, Sydney Pratte!</p>
+		<h1>Project 1</h1>
+			<p>The objective of this project was to develop novel ways of unlocking a phone. The central idea was to have a unique action preventing users form accidentally activating the functionality of their phones, as seen in iPhone's swipe to unlock (not necessarily related to secuirty). </p>
 	</section>
-	<section>
-		<h1>The Interview</h1>
-			<p>To develop this button, we needed to first understand our client. Already knowing about her love of her dogs, we decided to dig deeper and found out the following:</p>
+	<section style="max-height: 1000px">
+		<h1>Design and Sketches</h1>
+			<p>My personal sketches reflected realistic and minimalist ways of unlocking a phone that could be an alternative to the ones currently in place on modern smartphones. The idea was to find a simple, unique action that was not easily replicated accidentally.</p>
 			<br>
-			<ul>
-				<li>She loves her dogs very much!</li>
-				<li>Her bigger dog is Bentley, a black Malamute.</li>
-				<li>Her smaller dog is Ferraria, an all white Malamute.</li>
-				<li>She likes yoga, specifically the warrier positions.</li>
-				<li>She's very afraid of spiders, but her dogs wouldn't care about it.</li>
-				<li>She studies feminism and is designing a dress with possibly haptic feedback to show how women are touched compared to men.</li>
-				<li>She designed dresses that light up to the proximity of special dog collars. (Bentley's glows red, Ferrari's glows blue.)</li>
-				<li>She likes pastel colours, particularily a light blueish green.</li>
-				<li>She's very nerdy.</li>
-				<li>She eats her food in a particular order.</li>
-			</ul>
-	</section>
-	<section style="max-height: 600px">
-		<h1>The Sketches</h1>
-			<p>To capture the various aspects of our client, we all went and drafted several sketches that played on aspects of her that we had found in our interviews. Some of mine are listed below.</p>
 			<br>
-			<img src="https://cdn.discordapp.com/attachments/392447381666267139/541896280130191370/unknown.png" width="600px" style="margin: auto;">
+			Gesture based:
+			<br>
+			<img src="https://cdn.discordapp.com/attachments/392447381666267139/549475519389761546/unknown.png" width="600px" style="margin: auto;">
+			<br>
+			<br>
+			Sensor based:
+			<br>
+			<img src="https://cdn.discordapp.com/attachments/392447381666267139/549475664068345876/unknown.png" width="600px" style="margin: auto;">
 	</section>
-	<section>
-		<h1>The Implementation</h1>
-			<p>As this was a group project, we spoke extensively about varying interpretations of the button. Most of these ideas centered around Syndey's love for her dogs and yoga. And so we sought ways to represent that relationship. After reviewing several ideas, we settled on one that symbolized both how her dogs were omnipresent in her life, as well as the sybmolic nature of yoga to calm. To do this, we had a heart symbolize Sydney and had her dogs orbit around her. Upon clicking the button, Sydney would enter a meditative stance from attempting to do yoga. Her dogs would slow down and close in on her, not allowing her to do yoga undisturbed.
+	<section style="max-height: 3000px">
+		<h1>Refinement</h1>
+			<p>After presenting the ideas in class, we discussed over which ideas were the best and we settled on JAcky's idea for matching a background and a subject as well as Payal's germ destroyer idea.</p>
 			<br><br>
-			To achieve the desired effect, we needed smooth orbits that slowed down and grew and shrank according to user input, but we discovered this to be mroe difficult than we expected. I worked on smoothing out the shrinking orbits, in addition to centering them.</p>
+			<p>We felt these were creative and fun ideas that allowed for versatility in terms of how we wanted to approach it. As we had not yet decided which one would incorporate gestures and which one sensors, we each set about creating refined sketches to test out differing ideas.</p>
+			<br><br>
+			<img src="https://files.slack.com/files-pri/TFMELDVTL-FGEEDFJFN/image.png" width="600px" style="margin: auto;">
+			<br>
+			<p> My idea was to incorporate gestures into either shaking the germs until they 'lost grip' and fell off the screen, or blowing on them to push them off. The idea could even be combined to weaken the germs until you could then blow them off.<br>
+			The other idea I had was to use a simple tilt to shift between the poses and backgrounds instead of gestures.</p>
+			<br><br>
+			<p>The other group members devised the following sketches:</p>
+			<br>
+			<img src="https://cdn.discordapp.com/attachments/392447381666267139/549485380391665684/img.jpg" width="600px" style="margin: auto;">
+			<br>
+			<img src="https://files.slack.com/files-pri/TFMELDVTL-FGFHKS9BP/variations.png" width="600px" style="margin: auto;">
+			<br>
+			<img src="https://files.slack.com/files-tmb/TFMELDVTL-FGFAAL0RJ-cb308eb02b/20190224_095023_1024.jpg" width="600px" style="margin: auto;">
+			<br>
+			<img src="https://files.slack.com/files-tmb/TFMELDVTL-FGFBLR03C-32e33904e2/20190224_095013_1024.jpg" width="600px" style="margin: auto;">
+			<br>
+	</section>
+	<section>
+		<h1>Implementation</h1>
+			<p>For the production of the two lock screens, my group decided to split into two and focus on each tackling one of the designs. After reconvening and reviewing our sketches, we decided that the germ idea had more merit employing sensors in some way, while the background subject match made the most sense using simple gestures.</p>
+			<br>
+			<p>In the germ popper group, we discussed what sensors we wanted to use and how we wanted that to reflect the removal of germs. Out of all of us, we each incorporated shaking in some fashion, so decided it was a nice concept to follow through with.
+			</p>
+			<br>
+			<p>In order to use shaking, we thought about how that would be reflected tot he user and so after some debate concluded that having the germs explode and then proceed to unlock the phone would be the most visually appealing and satisfying.
+			</p>
+			<br>
+			<p>Finally, in the actual production, I implemented the animation in android studio from the assets provided by Payal and combined it with the shake detection that Robert implemented.</p>
 	</section>
 	<section style="max-height: 600px">
-		<h1>Final Product</h1>
+		<h1>Final Gesture Unlock</h1>
 		<video width="600px" height="600px" controls style="margin: auto;">
-		  <source src="demo.mp4" type="video/mp4">
+		  <source src="gestureDemo.mp4" type="video/mp4">
 			Your browser does not support the video tag	
 		</video>
 	</section>
-	<section style="max-height: 800px">
-		<h1>The Sydney Button</h1>
-		<iframe src="http://pages.cpsc.ucalgary.ca/~dennis.duong/581/p0/" height="800px">
-		  <p>Your browser does not support iframes!</p>
-		</iframe>
+	<section style="max-height: 600px">
+		<h1>Final Sensor Unlock</h1>
+		<video width="600px" height="600px" controls style="margin: auto;">
+		  <source src="sensorDemo.mp4" type="video/mp4">
+			Your browser does not support the video tag	
+		</video>
 	</section>
-
 	<footer>
 		Copyright © Wesley Tang 2019
 	</footer>
