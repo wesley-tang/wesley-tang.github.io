@@ -1,0 +1,96 @@
+* {
+	font-family:Verdana, Geneva, sans-serif;
+	margin: 1%;
+	padding: 0;
+	text-decoration: none;
+	font-weight: 200;
+	color: #e0e0e0;
+
+	border: 0px solid red;
+
+}
+
+body {
+	background-color: #3a475b;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+
+	justify-content: space-evenly;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+#messaging-area {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+
+	width: 80%;
+
+	justify-content: space-around;
+
+}
+
+#messages {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap-reverse;
+
+	align-items: flex-end;
+
+
+	overflow-y: auto;
+	overflow-x: visible;
+	overflow-wrap: break-word;
+
+	height: 80%;
+	width: 95%;
+
+	background-color: #5f6977;
+
+}
+
+.message {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+
+	align-items: flex-start;
+
+	flex: 0 0 100%;
+
+	width: 100%;
+
+
+	border: 1px solid red;
+
+	overflow-wrap: break-word;
+
+}
+
+.message-text {
+	overflow-wrap: break-word;
+}
+
+
+#input-box {
+	height: 5%;
+	width: 95%;
+
+	font-size: 1.5em;
+
+	background-color: #838c99;
+}
+
+#other-users {
+	margin-top: 3%;
+	padding-top: 2%;
+	text-align: center;
+	height: 80%;
+	background-color: #5f6977;
+}
