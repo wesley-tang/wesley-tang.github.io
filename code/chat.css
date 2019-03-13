@@ -37,22 +37,25 @@ ul {
 }
 
 #messages {
-	display: flex;
-	flex-direction: row;
+	/*display: flex;
+	flex-direction: column-reverse;
 	flex-wrap: wrap-reverse;
 
-	align-items: flex-end;
+	align-items: flex-end;*/
 
-
-	overflow-y: auto;
-	overflow-x: visible;
+	overflow-y: scroll;
+	overflow-x: hidden;
 	overflow-wrap: break-word;
 
 	height: 80%;
-	width: 95%;
+	width: 100%;
 
 	background-color: #5f6977;
 
+}
+
+li {
+	width: 100%;
 }
 
 .message {

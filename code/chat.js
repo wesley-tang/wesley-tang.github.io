@@ -1,7 +1,7 @@
-/*			SENG 513 CHAT APP 		*/
+	/*			SENG 513 CHAT APP 		*/
 
-// const BACKEND_URL = "http://localhost:3000";
-const BACKEND_URL = "https://chitrchatr.glitch.me/";
+//const BACKEND_URL = "http://localhost:3000";
+ const BACKEND_URL = "https://chitrchatr.glitch.me/";
 
 let user;
 let onlineUsers = [];
@@ -54,8 +54,9 @@ function setUserName(name, socket){
 	socket.emit('user update', user);
 }
 
-function setColor(color, socket){
-	user.color = color;
+function setColor(colour, socket){
+	user.colour = colour;
+	console.log(colour);
 
 	socket.emit('user update', user);
 }
@@ -65,9 +66,12 @@ function addMessage(author, timestamp, content){
 
 		console.log("Adding message");
 
-		// DONT USE SPAN INT EH REAL THING LOL
-		$('#messages').append("<li>" + timestamp + " " + "<span style=\"color:#" + author.color +"\">" + author.username + "</span> " + content +"</li>");
-	}
+		if (author.id === user.id)
+			$('#messages').append("<li>" + timestamp + " " + "<strong style=\"color:#" + author.colour + ";\">" + author.username + "</strong> " + content +"</li>");
+		
+		else // DONT USE SPAN INT EH REAL THING LOL
+			$('#messages').append("<li>" + timestamp + " " + "<span style=\"color:#" + author.colour + ";\">" + author.username + "</span> " + content +"</li>");
+		}
 	else {
 		// If no user is given, then we assume it was a system generated message
 
@@ -109,14 +113,17 @@ $(function () {
 			case "nick":
 				console.log("Attempting to change username");
 				if (inpArray.length < 2) {
-					addMessage(null, null, "Please provide the username you wish to switch to.");
+					// addMessage(null, null, "Please provide the username you wish to switch to.");
+					alert("Please provide the username you wish to switch to.");
 				}
 				else {
 					if (inpArray[1].length > 20){
-						addMessage(null, null, "Username must be shorter than 21 characters");
+						// addMessage(null, null, "Username must be shorter than 21 characters");
+						alert("Username must be shorter than 21 characters");
 					}
 					else if (inpArray[1].length < 1){
-						addMessage(null, null, "Invalid username, cannot be whitespace");
+						// addMessage(null, null, "Invalid username, cannot be whitespace");
+						alert("Invalid username, cannot be whitespace");
 					}
 					else {
 						setUserName(inpArray[1], socket);
@@ -124,12 +131,12 @@ $(function () {
 				}
 				
 				break;
-			case "colour":
+			case "nickcolour":
 				if (inpArray.length < 2) {
-					addMessage(null, null, "Please provide the username you wish to switch to.");
+					alert("Please provide the colour you wish to switch to.");
 				}
 				else {
-
+					setColor(inpArray[1], socket);
 				}
 				break;
 			}
