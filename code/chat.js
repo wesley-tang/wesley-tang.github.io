@@ -1,7 +1,4 @@
-	/*			SENG 513 CHAT APP 		*/
-
-//const BACKEND_URL = "http://localhost:3000";
- const BACKEND_URL = "https://chitrchatr.glitch.me/";
+const BACKEND_URL = "https://chitrchatr.glitch.me/";
 
 let user;
 let onlineUsers = [];
