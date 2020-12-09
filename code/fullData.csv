@@ -1,0 +1,401 @@
+id,institutionName,gradRate,percentFinancialAid,state,level,carnegieClass,livingPrice,percentWomen,percentOnlyRemote,percentSomeRemote,percentNoRemote
+100654,Alabama A & M University,27,91,AL,1,16,23057,60,2,17,81
+102580,Alaska Bible College,38,80,AK,1,18,19654,36,5,0,95
+102669,Alaska Pacific University,56,100,AK,1,16,34210,65,12,17,72
+188854,American Musical and Dramatic Academy,65,100,NY,1,6,54770,70,0,0,100
+150048,Ancilla College,26,93,IN,2,1,27910,53,4,47,49
+138761,Andrew College,15,98,GA,1,1,35621,56,0,69,31
+483124,Arizona State University-Skysong,48,82,AZ,1,10,25806,60,95,1,4
+407009,Arizona State University-West,70,95,AZ,1,10,26042,61,2,56,43
+106467,Arkansas Tech University,41,95,AR,1,13,18705,55,20,24,56
+164562,Assumption College,75,99,MA,1,13,54594,61,7,4,89
+100858,Auburn University,78,75,AL,1,17,31282,50,4,17,79
+482149,Augusta University,31,91,GA,1,16,21254,64,4,20,76
+219000,Augustana University,70,100,SD,1,13,45458,65,14,0,86
+222983,Austin College,70,100,TX,1,6,53784,51,0,0,100
+231420,Averett University,42,100,VA,1,16,46344,45,0,20,80
+447847,Aviator College of Aeronautical Science and Technology,67,18,FL,2,4,96636,13,0,0,100
+176628,Avila University,50,100,MO,1,16,39656,62,6,13,81
+206817,Bacone College,10,90,OK,1,5,35150,37,7,27,66
+128586,Bais Binyomin Academy,53,100,NY,1,-2,17300,0,0,0,100
+476601,Bais HaMedrash and Mesivta of Baltimore,41,80,MD,1,18,21800,0,0,0,100
+201195,Baldwin Wallace University,64,100,OH,1,13,46004,56,3,7,90
+155070,Barclay College,43,100,KS,1,18,30820,49,37,7,57
+160977,Bates College,89,46,ME,1,6,68870,51,0,0,100
+164720,Becker College,44,100,MA,1,18,55710,58,3,25,72
+154712,Benedictine College,60,100,KS,1,13,43700,54,0,0,99
+165884,Benjamin Franklin Institute of Technology,45,98,MA,1,18,40250,14,0,0,100
+237181,Bethany College,34,100,WV,1,10,42674,40,0,0,100
+154749,Bethel College-North Newton,52,99,KS,1,12,42040,53,7,0,93
+219718,Bethel University,29,100,TN,1,19,31570,57,51,5,44
+486053,Bethlehem College & Seminary,88,0,MN,1,-2,12560,31,0,0,100
+132602,Bethune-Cookman University,34,99,FL,1,13,29172,62,8,33,59
+234711,Big Bend Community College,38,73,WA,2,2,15729,54,11,22,67
+100937,Birmingham-Southern College,68,100,AL,1,9,52414,52,0,0,100
+164924,Boston College,92,56,MA,1,11,70588,54,1,2,97
+198066,Brevard College,33,100,NC,1,12,42005,45,0,0,100
+230047,Brigham Young University-Hawaii,63,84,HI,1,12,18348,62,10,31,59
+142522,Brigham Young University-Idaho,57,64,ID,1,12,12322,58,61,20,19
+217156,Brown University,95,60,RI,1,8,71050,52,0,0,100
+189574,Bryant & Stratton College-Syracuse,34,99,NY,2,3,30550,72,1,23,76
+211291,Bucknell University,88,59,PA,1,10,70125,51,0,0,100
+153001,Buena Vista University,54,100,IA,1,12,45619,66,44,9,47
+154800,Butler Community College,26,86,KS,2,1,12740,59,20,26,54
+110918,California Christian College,0,100,CA,1,18,21284,25,0,0,100
+111188,California State University Maritime Academy,62,73,CA,1,19,28082,18,3,0,97
+110547,California State University-Dominguez Hills,45,94,CA,1,13,22391,64,9,27,63
+110608,California State University-Northridge,54,87,CA,1,14,22127,56,3,46,51
+366711,California State University-San Marcos,55,82,CA,1,13,25316,63,6,22,72
+169080,Calvin University,77,100,MI,1,13,46790,54,1,2,97
+238430,Cardinal Stritch University,51,100,WI,1,19,42654,67,20,8,72
+219806,Carson-Newman University,51,100,TN,1,16,40640,62,15,30,55
+238476,Carthage College,64,100,WI,1,12,57250,56,0,0,100
+189848,Cazenovia College,60,100,NY,1,15,50166,71,1,0,99
+176910,Central Christian College of the Bible,47,100,MO,1,18,24033,43,19,25,56
+180902,Central Community College,41,87,NE,2,3,13090,59,25,17,58
+208318,Central Oregon Community College,21,76,OR,2,2,20460,54,9,20,70
+111948,Chapman University,79,88,CA,1,13,69464,60,0,1,99
+201858,Cincinnati Christian University,54,100,OH,1,19,31998,41,1,25,74
+217864,Citadel Military College of South Carolina,72,88,SC,1,16,28743,21,10,8,82
+190099,Colgate University,89,49,NY,1,6,69860,55,0,0,100
+139250,College of Coastal Georgia,21,84,GA,1,5,21038,67,8,34,58
+181604,College of Saint Mary,60,97,NE,1,19,30970,98,1,33,66
+231077,College of St Joseph,54,100,VT,1,13,39200,60,0,0,100
+376695,College of the Marshall Islands,11,96,MH,2,1,9415,49,3,0,97
+123484,College of the Siskiyous,24,66,CA,2,2,15248,47,17,30,54
+139366,Columbus State University,37,92,GA,1,16,21414,60,19,21,60
+212975,Commonwealth Technical Institute,73,39,PA,2,3,38412,27,0,0,100
+112075,Concordia University-Irvine,63,100,CA,1,13,50180,60,45,16,38
+190415,Cornell University,95,60,NY,1,14,70321,50,1,2,98
+235024,Cornish College of the Arts,59,100,WA,1,9,57074,66,0,0,100
+177117,Cottey College,59,97,MO,1,5,31140,100,0,2,98
+174862,Crown College,52,97,MN,1,19,39726,53,57,4,39
+190637,CUNY Lehman College,49,90,NY,1,16,27142,68,2,17,81
+219091,Dakota Wesleyan University,60,100,SD,1,16,37060,58,18,17,65
+182670,Dartmouth College,95,58,NH,1,7,71827,48,0,2,98
+198385,Davidson College,90,70,NC,1,6,66678,49,0,0,100
+194569,Davis College,59,100,NY,1,18,27200,50,25,19,56
+165574,Dean College,39,95,MA,1,5,56936,54,2,5,93
+150400,DePauw University,85,100,IN,1,6,62567,52,0,0,100
+105297,Dine College,17,90,AZ,1,12,12000,66,14,54,32
+190761,Dominican College of Blauvelt,43,100,NY,1,16,45568,68,13,5,82
+212106,Duquesne University,80,100,PA,1,16,52108,63,6,13,81
+129215,Eastern Connecticut State University,58,94,CT,1,10,27020,57,1,8,91
+161138,Eastern Maine Community College,28,89,ME,2,3,18089,51,5,19,76
+187648,Eastern New Mexico University-Main Campus,35,98,NM,1,13,18419,59,46,24,30
+208646,Eastern Oregon University,33,98,OR,1,13,22433,62,45,18,37
+238661,Edgewood College,63,99,WI,1,16,42690,72,6,17,77
+212197,Elizabethtown College,73,100,PA,1,13,58490,63,1,0,99
+104586,Embry-Riddle Aeronautical University-Prescott,65,96,AZ,1,16,51036,25,0,2,97
+153302,Emmaus Bible College,76,100,IA,1,18,27870,55,3,4,93
+165699,Endicott College,76,95,MA,1,16,50329,66,24,13,63
+217998,Erskine College,61,100,SC,1,12,51360,44,0,7,93
+101189,Faulkner University,28,100,AL,1,19,34370,59,30,21,49
+172440,Finlandia University,31,100,MI,1,15,36088,51,9,10,81
+133951,Florida International University,58,89,FL,1,14,23688,57,18,43,40
+380368,Fond du Lac Tribal and Community College,21,93,MN,2,9,16161,56,2,11,87
+127185,Fort Lewis College,44,93,CO,1,9,26691,52,0,3,96
+165866,Framingham State University,56,94,MA,1,13,26150,65,12,9,79
+441982,Franklin W Olin College of Engineering,93,100,MA,1,18,70289,48,0,0,100
+162584,Frostburg State University,52,92,MD,1,13,21642,53,16,14,70
+218070,Furman University,80,94,SC,1,10,63706,61,0,0,100
+139861,Georgia College & State University,64,96,GA,1,16,28120,63,10,13,77
+212674,Gettysburg College,82,86,PA,1,6,66710,53,0,0,100
+237385,Glenville State College,32,93,WV,1,15,23182,43,6,31,63
+130989,Goldey-Beacom College,42,100,DE,1,20,38717,56,0,0,100
+165936,Gordon College,70,100,MA,1,10,49940,66,2,7,91
+150668,Goshen College,68,100,IN,1,13,46500,65,2,4,94
+162654,Goucher College,71,99,MD,1,7,59810,71,4,6,90
+153366,Graceland University-Lamoni,51,100,IA,1,16,41130,68,49,15,36
+191515,Hamilton College,93,65,NY,1,6,67670,53,0,0,100
+150756,Hanover College,72,100,IN,1,6,50450,54,0,3,97
+212869,Harcum College,32,96,PA,2,2,37265,80,1,10,89
+191533,Hartwick College,58,100,NY,1,9,57627,59,0,2,98
+155140,Haskell Indian Nations University,45,80,KS,1,9,8550,55,0,0,100
+383190,Hawaii Community College,27,74,HI,2,2,18604,61,19,24,57
+170286,Hillsdale College,87,98,MI,1,7,40552,49,0,0,100
+191649,Hofstra University,63,97,NY,1,13,61260,58,2,6,92
+232308,Hollins University,55,100,VA,1,7,54205,97,2,2,97
+239743,Holy Family College,38,100,WI,1,16,41766,67,2,6,91
+212984,Holy Family University,60,100,PA,1,16,46850,75,11,15,75
+170301,Hope College,79,98,MI,1,12,45410,61,0,0,100
+150941,Huntington University,61,99,IN,1,16,37296,61,11,8,81
+487524,Husson University,55,99,ME,1,19,30209,58,15,27,57
+142276,Idaho State University,33,92,ID,1,16,21111,56,13,35,53
+145646,Illinois Wesleyan University,79,100,IL,1,9,58830,55,0,0,100
+155201,Independence Community College,30,98,KS,2,3,12064,52,9,33,58
+151379,Indiana University-Southeast,32,85,IN,1,13,20529,60,9,35,56
+151801,Indiana Wesleyan University-Marion,66,96,IN,1,19,37760,65,0,7,93
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,11,98,NM,1,6,20860,55,4,16,80
+153524,Iowa Central Community College,35,93,IA,2,2,15951,51,17,15,67
+175829,Itawamba Community College,47,97,MS,2,1,10655,59,23,37,39
+225876,Jacksonville College-Main Campus,34,98,TX,2,1,17702,55,2,44,54
+232423,James Madison University,84,63,VA,1,13,26122,60,3,82,15
+191986,Jamestown Community College,37,91,NY,2,1,18970,58,5,21,74
+192040,Jewish Theological Seminary of America,82,66,NY,1,8,74504,55,6,12,82
+162928,Johns Hopkins University,93,70,MD,1,14,69863,53,27,12,61
+445708,Johnson & Wales University-Charlotte,57,100,NC,1,5,48530,67,0,0,100
+198756,Johnson C Smith University,36,93,NC,1,12,32136,62,4,0,96
+101541,Judson College,35,100,AL,1,9,32358,98,11,7,81
+155399,Kansas State University,64,89,KS,1,17,24339,49,9,15,76
+157058,Kentucky State University,18,96,KY,1,13,19167,59,20,33,47
+192192,Keuka College,53,100,NY,1,19,47488,75,2,18,80
+171881,Kuyper College,56,96,MI,1,15,30924,64,0,0,100
+117627,La Sierra University,45,87,CA,1,13,45402,60,0,0,100
+117168,Laguna College of Art and Design,61,100,CA,1,19,48175,66,0,14,86
+203580,Lake Erie College,49,100,OH,1,16,44732,55,5,15,80
+238980,Lakeland University,48,100,WI,1,16,41170,61,7,23,70
+183123,Lakes Region Community College,31,87,NH,2,2,24156,50,6,21,73
+247649,Landmark College,36,100,VT,1,5,71560,31,10,0,90
+240620,Laramie County Community College,28,94,WY,2,1,14236,59,14,26,60
+117274,Lassen Community College,20,76,CA,2,1,14191,23,33,17,49
+198808,Lees-McRae College,37,100,NC,1,15,42680,67,30,0,70
+142328,Lewis-Clark State College,40,96,ID,1,15,16734,62,14,28,58
+218238,Limestone College,35,99,SC,1,19,41001,55,38,19,44
+177968,Lindenwood University,50,99,MO,1,16,30560,59,12,23,65
+198871,Louisburg College,30,100,NC,2,1,32409,36,0,0,100
+203757,Lourdes University,34,100,OH,1,16,35340,67,9,19,71
+153834,Luther College,79,100,IA,1,9,54045,55,0,0,100
+106342,Lyon College,49,100,AR,1,6,39120,45,0,0,100
+173902,Macalester College,90,85,MN,1,6,66280,61,0,0,100
+170806,Madonna University,61,99,MI,1,19,34186,68,11,31,58
+161022,Maine College of Health Professions,100,83,ME,2,4,19406,88,0,20,80
+161299,Maine Maritime Academy,76,90,ME,1,18,27288,16,1,0,99
+192819,Marist College,83,92,NY,1,10,54880,57,11,13,76
+230940,Marlboro College,63,100,VT,1,6,55625,53,0,0,100
+232672,Mary Baldwin University,47,100,VA,1,7,43550,90,32,17,51
+163295,Maryland Institute College of Art,70,93,MD,1,11,62850,74,2,0,98
+220710,Maryville College,55,100,TN,1,9,49266,54,0,0,100
+213826,Marywood University,67,100,PA,1,16,50340,72,4,13,83
+166683,Massachusetts Institute of Technology,94,73,MA,1,14,67430,39,0,0,100
+226587,McMurry University,33,98,TX,1,16,40565,48,1,22,76
+118693,Menlo College,59,99,CA,1,18,58018,44,0,0,100
+140447,Mercer University,66,100,GA,1,16,51293,64,8,14,78
+480189,Mercyhurst University-North East Campus,44,99,PA,2,1,31860,60,0,0,100
+237552,Meredith Manor International Equestrian Center,83,75,WV,2,-2,30219,78,0,0,100
+166850,Merrimack College,71,100,MA,1,16,57865,54,4,2,94
+178208,Midwestern Baptist Theological Seminary,10,96,MO,1,20,19311,15,34,15,51
+173920,Minnesota State University-Mankato,50,89,MN,1,16,20226,55,8,31,61
+178448,Moberly Area Community College,31,89,MO,2,1,14276,59,25,31,45
+180522,Montana State University-Northern,35,88,MT,1,18,16731,45,21,24,55
+147369,Moody Bible Institute,58,92,IL,1,19,26484,43,28,7,65
+154004,Morningside College,51,100,IA,1,16,44434,69,53,0,47
+218399,Morris College,31,100,SC,1,15,25370,60,0,0,100
+147396,Morrison Institute of Technology,83,95,IL,2,4,28575,6,0,0,100
+214166,Mount Aloysius College,45,98,PA,1,5,38268,67,9,23,68
+204176,Mount Carmel College of Nursing,67,93,OH,1,20,24782,90,30,10,60
+166939,Mount Holyoke College,83,79,MA,1,7,63900,99,3,1,96
+204200,Mount Saint Joseph University,53,100,OH,1,13,40566,67,8,12,80
+193353,Mount Saint Mary College,57,100,NY,1,13,47298,71,1,7,92
+119270,Musicians Institute,58,52,CA,1,6,42255,24,0,0,100
+204264,Muskingum University,51,98,OH,1,13,41420,65,19,7,74
+163532,Ner Israel Rabbinical College,49,72,MD,1,20,22750,0,0,0,100
+187897,New Mexico Highlands University,21,95,NM,1,16,18720,65,28,17,55
+187903,New Mexico Junior College,31,76,NM,2,1,9502,65,6,46,48
+194091,New York Institute of Technology,51,99,NY,1,16,57154,43,5,22,73
+167251,Newbury College,31,100,MA,1,15,52570,56,7,28,65
+167260,Nichols College,55,100,MA,1,19,51400,40,4,21,75
+199209,North Carolina Wesleyan College,29,99,NC,1,15,42450,58,1,22,78
+147660,North Central College,68,100,IL,1,13,51228,55,0,0,100
+224110,North Central Texas College,12,68,TX,2,1,12356,56,17,24,59
+194028,North Country Community College,31,81,NY,2,2,19264,60,0,16,84
+200305,North Dakota State College of Science,49,93,ND,2,3,15440,43,48,18,34
+140678,North Georgia Technical College,31,91,GA,2,3,10270,62,9,28,63
+154059,North Iowa Area Community College,46,94,IA,2,3,15647,55,12,54,33
+147679,North Park University,60,99,IL,1,16,41430,64,10,9,80
+207263,Northeastern State University,35,94,OK,1,16,17291,62,16,42,42
+105330,Northern Arizona University,52,94,AZ,1,13,26923,61,21,21,58
+161484,Northern Maine Community College,42,94,ME,2,3,17739,55,2,28,70
+188058,Northern New Mexico College,22,96,NM,1,5,17771,61,10,41,49
+219259,Northern State University,48,97,SD,1,13,21324,60,42,13,45
+239512,Northland College,54,99,WI,1,12,47493,54,0,0,100
+142461,Northwest Nazarene University,59,100,ID,1,16,39690,61,33,17,50
+236133,Northwest University,55,98,WA,1,16,41990,64,0,23,77
+154101,Northwestern College,69,100,IA,1,12,43650,62,18,17,65
+194161,Nyack College,42,100,NY,1,16,40395,57,10,32,58
+204501,Oberlin College,86,87,OH,1,7,71330,57,0,0,100
+227304,Odessa College,30,72,TX,2,2,12231,62,29,23,48
+204662,Ohio State University Agricultural Technical Institute,41,88,OH,2,4,22365,49,0,17,83
+204796,Ohio State University-Main Campus,84,82,OH,1,14,27037,50,3,25,73
+204909,Ohio Wesleyan University,67,100,OH,1,9,60350,53,0,0,100
+207324,Oklahoma Christian University,57,100,OK,1,16,34915,46,7,16,78
+207388,Oklahoma State University-Main Campus,61,91,OK,1,17,23648,49,6,32,62
+209533,Oregon College of Art and Craft,37,100,OR,1,6,47000,76,0,0,100
+209506,Oregon Institute of Technology,52,88,OR,1,19,23708,49,14,13,72
+120403,Otis College of Art and Design,57,76,CA,1,13,64660,67,0,49,51
+227331,Our Lady of the Lake University,37,99,TX,1,16,42181,76,36,22,42
+457484,Pacific Rim Christian University,29,94,HI,1,13,25716,45,0,0,100
+120865,Pacific Union College,55,100,CA,1,16,42711,62,1,6,93
+209612,Pacific University,65,100,OR,1,13,57488,65,2,7,91
+214971,Pennsylvania Academy of the Fine Arts,52,100,PA,1,8,59289,68,3,0,97
+215053,Pennsylvania College of Art and Design,59,100,PA,1,15,37323,68,0,0,100
+214591,Pennsylvania State University-Penn State Erie-Behrend College,66,78,PA,1,16,33098,33,1,24,76
+214768,Pennsylvania State University-Penn State Hazleton,51,93,PA,1,5,32368,49,0,51,48
+214795,Pennsylvania State University-Penn State Mont Alto,50,94,PA,1,5,31602,54,16,50,34
+214810,Pennsylvania State University-Penn State Schuylkill,44,94,PA,1,15,32306,58,3,43,54
+489937,Piedmont International University,36,100,NC,1,19,20514,30,64,30,6
+183080,Plymouth State University,53,99,NH,1,13,28314,53,6,27,67
+194578,Pratt Institute-Main,72,78,NY,1,17,65308,71,0,0,100
+186131,Princeton University,96,62,NJ,1,11,66150,46,0,0,100
+455770,Providence Christian College,33,100,CA,1,6,44682,47,0,0,100
+151102,Purdue University Fort Wayne,39,90,IN,1,13,21801,56,5,27,67
+384421,Rabbi Jacob Joseph School,10,82,NJ,1,18,19200,0,0,0,100
+186186,Rabbinical College of America,8,100,NJ,1,18,22600,0,0,0,100
+178891,Ranken Technical College,58,80,MO,1,5,25239,5,0,57,43
+167598,Regis College,57,100,MA,1,19,57625,83,23,0,77
+127918,Regis University,69,99,CO,1,16,51202,62,32,30,37
+186283,Rider University,65,98,NJ,1,16,59700,59,6,12,82
+173063,Riverland Community College,42,84,MN,2,2,12970,55,23,25,52
+183211,Rivier University,51,100,NH,1,19,48158,78,27,36,38
+148335,Robert Morris University Illinois,40,97,IL,1,19,45309,45,0,0,100
+148405,Rockford University,38,99,IL,1,16,43130,55,0,0,100
+179043,Rockhurst University,75,100,MO,1,13,51631,60,0,3,97
+207670,Rose State College,18,80,OK,2,1,20061,61,16,27,57
+184782,Rowan University,72,84,NJ,1,13,31058,48,7,22,71
+186371,Rutgers University-Camden,58,94,NJ,1,13,31082,58,11,26,63
+174783,Saint Cloud State University,44,86,MN,1,13,20686,54,5,22,73
+195720,Saint John Fisher College,73,100,NY,1,13,47770,62,2,4,94
+215770,Saint Joseph's University,80,98,PA,1,16,60854,57,27,14,58
+137032,Saint Leo University,51,100,FL,1,16,38492,60,61,12,26
+163851,Salisbury University,68,89,MD,1,13,25062,58,3,14,83
+217536,Salve Regina University,72,99,RI,1,13,56746,66,11,11,78
+112084,San Diego Christian College,44,100,CA,1,12,47032,51,18,27,56
+122597,San Francisco State University,55,81,CA,1,14,26719,57,1,33,66
+122931,Santa Clara University,91,76,CA,1,13,69439,51,0,0,100
+140960,Savannah State University,28,97,GA,1,13,16999,61,3,19,78
+236577,Seattle Pacific University,68,99,WA,1,13,56485,68,2,6,93
+123299,Shasta College,20,81,CA,1,1,11397,59,25,27,48
+195474,Siena College,74,99,NY,1,13,53855,53,0,0,100
+195526,Skidmore College,86,55,NY,1,7,69450,60,0,0,100
+218733,South Carolina State University,34,94,SC,1,16,29740,51,0,23,77
+219356,South Dakota State University,56,92,SD,1,16,22804,53,13,24,63
+181640,Southeast Community College Area,31,88,NE,2,3,13920,53,20,14,66
+176336,Southeastern Baptist College,50,100,MS,1,15,9765,24,84,13,3
+154378,Southeastern Community College,37,90,IA,2,2,16390,57,21,19,59
+137564,Southeastern University,42,98,FL,1,16,39408,57,18,27,55
+221661,Southern Adventist University,52,99,TN,1,16,33550,61,5,26,70
+130493,Southern Connecticut State University,51,87,CT,1,14,25837,63,1,12,88
+176354,Southwest Mississippi Community College,46,95,MS,2,2,10250,59,12,30,58
+228468,Southwestern Adventist University,49,100,TX,1,16,32732,58,6,0,93
+228325,Southwestern Assemblies of God University,44,98,TX,1,19,34442,52,62,2,37
+172334,Spring Arbor University,57,100,MI,1,19,39970,72,35,25,40
+167899,Springfield College,72,99,MA,1,16,52775,56,0,0,100
+163976,St. John's College,76,99,MD,1,8,65409,46,0,0,100
+196176,State University of New York at New Paltz,76,83,NY,1,10,24230,62,2,97,0
+228431,Stephen F Austin State University,48,85,TX,1,13,21276,64,11,25,64
+179548,Stephens College,50,100,MO,1,15,45148,95,15,7,79
+167996,Stonehill College,79,99,MA,1,9,59560,59,0,0,100
+168005,Suffolk University,59,97,MA,1,13,56040,56,1,7,92
+196219,SUNY at Purchase College,63,80,NY,1,10,26352,57,0,0,100
+196167,SUNY College at Geneseo,81,81,NY,1,10,25122,61,0,13,87
+196237,SUNY College at Old Westbury,47,86,NY,1,10,23363,58,0,91,9
+196006,SUNY College of Technology at Alfred,56,96,NY,1,5,24859,36,9,15,76
+190442,SUNY Corning Community College,33,86,NY,2,1,17260,58,4,15,81
+216278,Susquehanna University,71,99,PA,1,9,59780,56,0,0,100
+196440,Talmudical Institute of Upstate New York,25,83,NY,1,18,13800,0,0,0,100
+196431,Talmudical Seminary Oholei Torah,27,100,NY,1,18,20500,0,0,0,100
+216339,Temple University,73,90,PA,1,17,32430,53,3,14,82
+228699,Texarkana College,45,88,TX,2,3,10226,62,10,21,69
+226152,Texas A & M International University,46,81,TX,1,17,17983,61,4,33,63
+224554,Texas A & M University-Commerce,40,93,TX,1,11,21651,61,35,30,36
+228705,Texas A & M University-Kingsville,37,89,TX,1,14,22825,47,4,16,80
+228981,Texas Lutheran University,53,100,TX,1,12,42700,52,0,0,100
+487320,Texas State Technical College,41,91,TX,2,3,18093,33,5,15,80
+228459,Texas State University,55,82,TX,1,14,22625,58,3,19,78
+229115,Texas Tech University,60,78,TX,1,14,23633,47,7,40,53
+138813,The Art Institute of Atlanta,18,95,GA,1,18,36399,47,0,23,77
+132408,The Baptist College of Florida,62,90,FL,1,18,18288,42,39,36,24
+193645,The College of New Rochelle,35,95,NY,1,10,54054,85,0,5,95
+174899,The College of Saint Scholastica,69,100,MN,1,16,49104,72,30,8,62
+235167,The Evergreen State College,55,89,WA,1,6,21382,58,0,0,100
+192110,The Juilliard School,88,89,NY,1,7,62600,45,0,0,100
+221768,The University of Tennessee-Martin,48,98,TN,1,16,20206,60,17,9,73
+229027,The University of Texas at San Antonio,40,83,TX,1,14,23285,51,2,24,75
+215105,The University of the Arts,62,100,PA,1,10,65299,63,0,0,100
+216357,Thiel College,48,99,PA,1,12,47050,43,0,0,100
+183275,Thomas More College of Liberal Arts,30,100,NH,1,6,32900,53,0,0,100
+157809,Thomas More University,48,99,KY,1,16,40668,50,5,14,81
+196592,Touro College,47,90,NY,1,10,35111,69,4,11,84
+137953,Trinity Baptist College,34,97,FL,1,12,22052,43,19,25,57
+137962,Trinity College of Florida,27,100,FL,1,18,26840,46,20,17,63
+229267,Trinity University,76,99,TX,1,10,56880,53,1,0,99
+160755,Tulane University of Louisiana,85,80,LA,1,11,69764,58,3,6,90
+196866,Union College,88,84,NY,1,6,68610,46,0,0,100
+161572,Unity College,66,100,ME,1,12,40560,52,4,96,0
+243443,Universidad del Sagrado Corazon,40,87,PR,1,16,24450,62,13,33,54
+241614,Universidad Teologica del Caribe,33,59,PR,1,18,10482,48,4,4,91
+196088,University at Buffalo,76,83,NY,1,11,26158,46,3,19,79
+100663,University of Alabama at Birmingham,58,94,AL,1,14,26096,61,24,31,45
+102632,University of Alaska Southeast,36,84,AK,1,13,19876,68,54,16,29
+106397,University of Arkansas,66,77,AR,1,17,24916,53,9,17,74
+106485,University of Arkansas at Monticello,26,96,AR,1,5,18812,59,20,29,51
+224323,University of Dallas,66,100,TX,1,10,54876,49,9,9,82
+202480,University of Dayton,79,98,OH,1,16,57680,49,3,4,93
+141565,University of Hawaii at Hilo,41,86,HI,1,13,23168,63,7,24,69
+145637,University of Illinois at Urbana-Champaign,84,62,IL,1,14,30082,46,7,24,70
+155317,University of Kansas,65,86,KS,1,14,25306,53,7,18,75
+157085,University of Kentucky,66,95,KY,1,17,29530,55,5,19,76
+161235,University of Maine at Fort Kent,46,95,ME,1,18,19375,71,28,27,44
+161244,University of Maine at Machias,29,100,ME,1,9,19466,69,35,29,36
+161341,University of Maine at Presque Isle,35,93,ME,1,12,19549,62,22,22,56
+220862,University of Memphis,48,98,TN,1,14,24660,59,12,23,65
+456959,University of Minnesota-Rochester,59,93,MN,1,18,25940,75,0,0,100
+174066,University of Minnesota-Twin Cities,80,81,MN,1,14,27469,53,2,24,74
+178396,University of Missouri-Columbia,69,85,MO,1,17,26611,53,8,19,73
+178402,University of Missouri-Kansas City,49,94,MO,1,14,23529,57,5,23,72
+101709,University of Montevallo,49,97,AL,1,13,25630,69,0,15,85
+199069,University of Mount Olive,47,100,NC,1,15,31200,66,14,40,45
+181215,University of Nebraska at Kearney,58,93,NE,1,16,22586,61,28,27,45
+161457,University of New England,63,100,ME,1,13,54260,73,49,2,49
+187976,University of New Mexico-Los Alamos Campus,19,84,NM,2,1,16922,58,49,18,33
+187985,University of New Mexico-Main Campus,50,96,NM,1,14,22146,56,8,29,63
+199111,University of North Carolina at Asheville,63,76,NC,1,7,19915,57,1,6,92
+199139,University of North Carolina at Charlotte,59,74,NC,1,14,23647,48,5,23,72
+199218,University of North Carolina Wilmington,73,76,NC,1,13,24613,63,15,28,57
+227216,University of North Texas,53,81,TX,1,14,23948,53,9,32,59
+204486,University of Northwestern Ohio,58,94,OH,1,5,23600,20,10,4,86
+207500,University of Oklahoma-Norman Campus,67,95,OK,1,14,28383,50,8,26,66
+215275,University of Pittsburgh-Greensburg,35,94,PA,1,9,29293,54,0,0,100
+243151,University of Puerto Rico-Cayey,48,81,PR,1,9,16210,65,0,0,100
+233374,University of Richmond,87,65,VA,1,10,64890,55,1,2,97
+207722,University of Science and Arts of Oklahoma,46,99,OK,1,12,18360,65,0,0,100
+215929,University of Scranton,82,99,PA,1,13,61096,58,16,2,82
+102094,University of South Alabama,44,95,AL,1,16,20698,63,22,23,55
+137351,University of South Florida-Main Campus,73,91,FL,1,14,21410,55,12,40,47
+120883,University of the Pacific,73,98,CA,1,13,64796,56,0,0,100
+215132,University of the Sciences,77,100,PA,1,19,60082,62,1,14,85
+188182,University of the Southwest,18,98,NM,1,13,27626,63,61,18,21
+234076,University of Virginia-Main Campus,94,59,VA,1,11,32213,54,4,3,93
+141334,University of West Georgia,42,94,GA,1,13,24070,66,21,33,46
+240268,University of Wisconsin-Eau Claire,67,80,WI,1,13,20070,61,6,17,76
+240277,University of Wisconsin-Green Bay,52,86,WI,1,10,19334,65,20,28,53
+240365,University of Wisconsin-Oshkosh,53,82,WI,1,16,19079,62,6,4,90
+240426,University of Wisconsin-Superior,36,79,WI,1,13,19839,62,27,16,57
+216524,Ursinus College,79,97,PA,1,6,66242,53,0,0,100
+197045,Utica College,54,97,NY,1,16,34668,59,47,13,40
+460376,Virginia International University,50,17,VA,1,-2,22648,41,8,33,60
+234173,Virginia Wesleyan University,52,100,VA,1,12,50204,60,3,3,94
+229799,Weatherford College,19,69,TX,2,1,15591,61,11,20,68
+230782,Weber State University,34,89,UT,1,13,20364,54,10,23,67
+236975,Wenatchee Valley College,31,70,WA,1,2,14414,58,9,18,73
+216764,West Chester University of Pennsylvania,75,79,PA,1,13,26773,60,7,10,83
+237899,West Virginia State University,29,87,WV,1,13,23228,58,6,21,74
+237950,West Virginia University Institute of Technology,34,94,WV,1,15,21784,44,19,15,66
+200004,Western Carolina University,62,88,NC,1,16,21452,57,18,13,69
+181817,Western Nebraska Community College,26,96,NE,2,2,14271,61,10,21,69
+230807,Westminster College,61,99,UT,1,13,47784,59,0,5,95
+125727,Westmont College,75,100,CA,1,9,60930,61,0,0,100
+237039,Whatcom Community College,33,59,WA,1,1,16400,56,1,21,78
+238078,Wheeling University,56,98,WV,1,16,40206,56,22,39,39
+216852,Widener University,63,99,PA,1,16,61218,64,16,29,55
+206491,Wilberforce University,18,100,OH,1,16,23450,55,0,0,100
+229887,Wiley College,38,100,TX,1,15,23906,61,13,0,87
+176479,William Carey University,47,99,MS,1,13,27952,64,15,20,65
+187444,William Paterson University of New Jersey,52,90,NJ,1,13,28709,57,5,23,72
+199962,Wingate University,51,98,NC,1,13,46700,61,0,4,96
+240338,Wisconsin Lutheran College,63,100,WI,1,13,41996,55,10,8,82
+125897,Woodbury University,52,94,CA,1,19,54633,51,0,7,93
+197531,Word of Life Bible Institute,80,100,NY,2,-2,18110,52,0,0,100
+197647,Yeshiva Derech Chaim,19,91,NY,1,20,19400,0,0,0,100
+488101,Yeshivas Maharit D'Satmar,21,100,NY,1,-2,19420,0,0,0,100
+197744,Yeshivath Zichron Moshe,53,90,NY,1,20,20600,0,0,0,100
